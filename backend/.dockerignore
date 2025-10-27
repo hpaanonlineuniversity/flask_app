@@ -3,5 +3,5 @@ venv
 .venv
 compose.yml
 compose*.yml
-
 __pycache__
+__pycache__*
